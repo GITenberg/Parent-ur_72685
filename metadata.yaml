@@ -1,0 +1,37 @@
+_repo: Parent-ur_72685
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kuncz, Aladár
+    gutenberg_agent_id: '56776'
+    url: http://www.gutenberg.org/2009/agents/56776
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Guy_de_Maupassant
+    - https://en.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2024-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72685'
+language: hu
+pgterms:marc905: 20240111003629maupassant
+pgterms:marc906: '1925'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  National Digital Archive
+publication_note: '  $aBudapest :$bAthenaeum, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Parent úr
+url: http://www.gutenberg.org/ebooks/72685
