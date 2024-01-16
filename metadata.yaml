@@ -5,6 +5,9 @@ contributor:
     agent_name: Kuncz, Aladár
     gutenberg_agent_id: '56776'
     url: http://www.gutenberg.org/2009/agents/56776
+covers:
+- cover_type: archival
+  image_path: 72685-h/images/cover.jpg
 creator:
   author:
     agent_name: Maupassant, Guy de
@@ -17,6 +20,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Guy_de_Maupassant
     - https://en.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72685#Parent-ur
 gutenberg_issued: '2024-01-11'
 gutenberg_type: Text
 identifiers:
